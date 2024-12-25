@@ -14,11 +14,12 @@
         //    x = y;
         //    y = temp;
         //}
-        //public static void Calculate(int a, int b, int c, int d)
+        //public static void Calculate(int a, int b)
         //{ 
-        //    int sum = a + b; int subtraction = c - d; 
-        //    Console.WriteLine("Sum of first two numbers: "+ sum);
-        //    Console.WriteLine("Subtraction of last two numbers: "+ subtraction);
+        //    int sum = a + b;
+        //    int subtraction = a - b; 
+        //    Console.WriteLine("Sum of two numbers: "+ sum);
+        //    Console.WriteLine("Subtraction of two numbers: "+ subtraction);
         //}
         //public static bool IsPrime(int num) 
         //{ 
@@ -75,11 +76,7 @@
             //int num1 = int.Parse(Console.ReadLine());
             //Console.Write("Second number: ");
             //int num2 = int.Parse(Console.ReadLine()); 
-            //Console.Write("Third number: ");
-            //int num3 = int.Parse(Console.ReadLine()); 
-            //Console.Write("Fourth number: ");
-            //int num4 = int.Parse(Console.ReadLine());
-            //Calculate(num1, num2, num3, num4);
+            //Calculate(num1, num2);
             #endregion
             #region Q4
             //Console.Write("Enter a number: ");
